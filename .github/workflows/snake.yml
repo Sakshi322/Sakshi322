@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # ✅ VERY IMPORTANT
+  contents: write
 
 jobs:
   build:
