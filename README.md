@@ -1,47 +1,64 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
+<h3 align="center">🚀 MERN Stack Developer | Frontend Focused</h3>
 
 <p align="center">
-  🚀 BTech CSE Student | 💻 Developer | 🔥 Problem Solver
+  💻 React • Tailwind • Bootstrap • Node.js • MongoDB  
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 BTech in Computer Science
-- 💻 Strong in Java & DSA
-- 📱 Learning Web development
-- 🔥 Passionate about Problem Solving
-- 🌱 Always learning new technologies
+- 🌱 I’m currently working on **MERN Stack Projects**
+- 💻 Strong in **React, JavaScript, HTML, CSS**
+- ⚡ Love building **responsive UI using Tailwind & Bootstrap**
+- 🔧 Tools: Postman, Git, GitHub, Vite, npm
+- 📚 Always learning and improving my development skills
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,flutter,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,npm,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakshi322&show_icons=true&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi322&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sakshi322&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/Sakshi322/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/Sakshi322/Sakshi322/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Sakshi322&theme=onedark)
 
 ---
 
 ## 🌐 Connect With Me
+
 <p>
 <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> |
 <a href="https://instagram.com/YOUR_LINK">Instagram</a>
@@ -49,4 +66,4 @@
 
 ---
 
-⚡ "Code. Learn. Build. Repeat."
+⚡ **"Code. Create. Learn. Repeat."**
